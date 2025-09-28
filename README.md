@@ -1,6 +1,8 @@
 ## TYPHOON WARNING SYSTEM
+team member: 3  
+Skills: Blynk, Arduino
 
-Background
+**Background**
 - The Philippines is an island country
 - Typhoons are a very common phenomenon 147 times, 2015~2020
 - The Philippines' typhoon warning system is not yet fully developed
@@ -12,7 +14,7 @@ Background
 - The water level rises above a certain level (major damage is expected )
   -> An alert is issued to the villagers through a siren and a warning text message
 
-Function
+**Function**
 - Siren
 - Current depth
 - A state where the color changes depending on the level of risk green-yellow-red
